@@ -4,7 +4,7 @@ Ahead/behind plan: on schedule
 
 ## This week's deliverables
 - [ ] Git installed and configured; profile repo published
-- [ ] Conda env `ml` (Python 3.12) with CUDA PyTorch working
+- [ ] Conda env `ml_env` (Python 3.12) with CUDA PyTorch working
 - [ ] Dataset chosen; README problem statement and two hypotheses written before code
 - [ ] eda.ipynb: load, clean, unify units, handle missing values and outliers
 - [ ] At least five plots, one written insight each
